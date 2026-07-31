@@ -1,0 +1,106 @@
+{
+  "report_type": "candidate_ranking",
+  "generated_at": "2026-07-31T06:25:08.861417",
+  "job": {
+    "id": 3,
+    "title": "Full Stack Developer (React + FastAPI)",
+    "company": "TalentMatch AI Technologies Pvt. Ltd.",
+    "required_skills": []
+  },
+  "total_candidates": 3,
+  "rankings": [
+    {
+      "rank": 1,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 61.8,
+      "similarity_score": 4.5,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "sql",
+        "git",
+        "computer vision",
+        "nlp",
+        "css",
+        "machine learning",
+        "tensorflow",
+        "gcp",
+        "problem solving",
+        "scikit-learn",
+        "pytorch",
+        "html",
+        "python",
+        "data science",
+        "algorithms",
+        "deep learning",
+        "aws",
+        "docker",
+        "pandas",
+        "numpy"
+      ],
+      "skill_gap": [],
+      "explanation": "Moderate match (61%) for Full Stack Developer (React + FastAPI). Candidate has 4 year(s) of experience. Matching skills: sql, git, computer vision, nlp, css. Missing skills: none."
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 49.2,
+      "similarity_score": 10.6,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "sql",
+        "postgresql",
+        "data structures",
+        "git",
+        "express",
+        "react",
+        "mongodb",
+        "java",
+        "linux",
+        "machine learning",
+        "node.js",
+        "scikit-learn",
+        "python",
+        "algorithms",
+        "docker",
+        "pandas",
+        "javascript",
+        "mysql",
+        "numpy"
+      ],
+      "skill_gap": [],
+      "explanation": "Weak match (49%) for Full Stack Developer (React + FastAPI). Candidate has 0 year(s) of experience. Matching skills: sql, postgresql, data structures, git, express. Missing skills: none."
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 46.3,
+      "similarity_score": 3.1,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "ci/cd",
+        "docker",
+        "sql",
+        "scikit-learn",
+        "pandas",
+        "pytorch",
+        "communication",
+        "git",
+        "python",
+        "data science",
+        "bash",
+        "machine learning",
+        "numpy",
+        "deep learning",
+        "aws",
+        "nlp",
+        "leadership"
+      ],
+      "skill_gap": [],
+      "explanation": "Weak match (46%) for Full Stack Developer (React + FastAPI). Candidate has 0 year(s) of experience. Matching skills: ci/cd, docker, sql, scikit-learn, pandas. Missing skills: none."
+    }
+  ],
+  "summary": {
+    "top_candidate": "Unknown Candidate",
+    "average_score": 52.4
+  }
+}

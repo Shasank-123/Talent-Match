@@ -1,0 +1,47 @@
+{
+  "report_type": "candidate_ranking",
+  "generated_at": "2026-07-31T06:15:43.298659",
+  "job": {
+    "id": 2,
+    "title": "Machine Learning Engineer (Entry Level)",
+    "company": "TalentMatch AI Technologies Pvt. Ltd.",
+    "required_skills": []
+  },
+  "total_candidates": 1,
+  "rankings": [
+    {
+      "rank": 1,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 63.9,
+      "similarity_score": 9.8,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "sql",
+        "postgresql",
+        "data structures",
+        "git",
+        "express",
+        "react",
+        "mongodb",
+        "java",
+        "linux",
+        "machine learning",
+        "node.js",
+        "scikit-learn",
+        "python",
+        "algorithms",
+        "docker",
+        "pandas",
+        "javascript",
+        "mysql",
+        "numpy"
+      ],
+      "skill_gap": [],
+      "explanation": "Moderate match (63%) for Machine Learning Engineer (Entry Level). Candidate has 0 year(s) of experience. Matching skills: sql, postgresql, data structures, git, express. Missing skills: none."
+    }
+  ],
+  "summary": {
+    "top_candidate": "Unknown Candidate",
+    "average_score": 63.9
+  }
+}

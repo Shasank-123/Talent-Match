@@ -1,0 +1,106 @@
+{
+  "report_type": "candidate_ranking",
+  "generated_at": "2026-07-31T06:18:32.418885",
+  "job": {
+    "id": 2,
+    "title": "Machine Learning Engineer (Entry Level)",
+    "company": "TalentMatch AI Technologies Pvt. Ltd.",
+    "required_skills": []
+  },
+  "total_candidates": 3,
+  "rankings": [
+    {
+      "rank": 1,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 63.9,
+      "similarity_score": 9.8,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "sql",
+        "postgresql",
+        "data structures",
+        "git",
+        "express",
+        "react",
+        "mongodb",
+        "java",
+        "linux",
+        "machine learning",
+        "node.js",
+        "scikit-learn",
+        "python",
+        "algorithms",
+        "docker",
+        "pandas",
+        "javascript",
+        "mysql",
+        "numpy"
+      ],
+      "skill_gap": [],
+      "explanation": "Moderate match (63%) for Machine Learning Engineer (Entry Level). Candidate has 0 year(s) of experience. Matching skills: sql, postgresql, data structures, git, express. Missing skills: none."
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 62.7,
+      "similarity_score": 6.8,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "sql",
+        "git",
+        "computer vision",
+        "nlp",
+        "css",
+        "machine learning",
+        "tensorflow",
+        "gcp",
+        "problem solving",
+        "scikit-learn",
+        "pytorch",
+        "html",
+        "python",
+        "data science",
+        "algorithms",
+        "deep learning",
+        "aws",
+        "docker",
+        "pandas",
+        "numpy"
+      ],
+      "skill_gap": [],
+      "explanation": "Moderate match (62%) for Machine Learning Engineer (Entry Level). Candidate has 4 year(s) of experience. Matching skills: sql, git, computer vision, nlp, css. Missing skills: none."
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Unknown Candidate",
+      "overall_score": 62.5,
+      "similarity_score": 6.2,
+      "skill_match_score": 100.0,
+      "matching_skills": [
+        "ci/cd",
+        "docker",
+        "sql",
+        "scikit-learn",
+        "pandas",
+        "pytorch",
+        "communication",
+        "git",
+        "python",
+        "data science",
+        "bash",
+        "machine learning",
+        "numpy",
+        "deep learning",
+        "aws",
+        "nlp",
+        "leadership"
+      ],
+      "skill_gap": [],
+      "explanation": "Moderate match (62%) for Machine Learning Engineer (Entry Level). Candidate has 0 year(s) of experience. Matching skills: ci/cd, docker, sql, scikit-learn, pandas. Missing skills: none."
+    }
+  ],
+  "summary": {
+    "top_candidate": "Unknown Candidate",
+    "average_score": 63.0
+  }
+}
